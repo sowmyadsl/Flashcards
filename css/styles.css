@@ -2,15 +2,15 @@ body{
   text-align: center;
 }
 
-.definition{
+p{
   display: none;
 }
 
-.initial-showing:hover {
+h3:hover {
   text-decoration: underline;
 }
 
-.initial-showing {
+h3{
   cursor: pointer;
   color: #0088cc;
 }
