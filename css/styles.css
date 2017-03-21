@@ -1,0 +1,16 @@
+body{
+  text-align: center;
+}
+
+.definition{
+  display: none;
+}
+
+.initial-showing:hover {
+  text-decoration: underline;
+}
+
+.initial-showing {
+  cursor: pointer;
+  color: #0088cc;
+}
