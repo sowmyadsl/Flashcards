@@ -1,6 +1,6 @@
 body{
   text-align: center;
-  background-color: darkgrey;
+  background-color: #FCB97D;
 }
 p{
   display: none;
@@ -9,7 +9,10 @@ p{
   margin: 100px;
   padding: 50px;
   font-size: 30px;
-  background-color: lightgrey;
+  background-color: #EDD892;
+}
+h1{
+  font-size: 56px;
 }
 h3:hover {
   text-decoration: underline;
@@ -17,4 +20,10 @@ h3:hover {
 h3{
   cursor: pointer;
   color: #0088cc;
+}
+h4  {
+  margin-top: 20px;
+  margin-bottom:20px;
+  color: #A62639;
+  font-size: 20px;
 }
