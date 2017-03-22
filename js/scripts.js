@@ -1,78 +1,78 @@
 $(document).ready(function() {
   $("#h-java").click(function() {
     $("p").hide();
-    $("#def-java").show();
+    $("#def-java").toggle();
   });
   $("#h-op").click(function() {
     $("p").hide();
-    $("#def-op").show();
+    $("#def-op").toggle();
   });
   $("#h-var").click(function() {
     $("p").hide();
-    $("#def-var").show();
+    $("#def-var").toggle();
   });
   $("#h-var-name").click(function() {
     $("p").hide();
-    $("#def-var-name").show();
+    $("#def-var-name").toggle();
   });
   $("#h-fun").click(function() {
     $("p").hide();
-    $("#def-fun").show();
+    $("#def-fun").toggle();
   });
   $("#h-meth").click(function() {
     $("p").hide();
-    $("#def-meth").show();
+    $("#def-meth").toggle();
   });
   $("#h-arg").click(function() {
     $("p").hide();
-    $("#def-arg").show();
+    $("#def-arg").toggle();
   });
   $("#h-para").click(function() {
     $("p").hide();
-    $("#def-para").show();
+    $("#def-para").toggle();
   });
   $("#h-ret").click(function() {
     $("p").hide();
-    $("#def-ret").show();
+    $("#def-ret").toggle();
   });
   $("#h-cha").click(function() {
     $("p").hide();
-    $("#def-cha").show();
+    $("#def-cha").toggle();
   });
   $("#h-str").click(function() {
     $("p").hide();
-    $("#def-str").show();
+    $("#def-str").toggle();
   });
   $("#h-boo").click(function() {
     $("p").hide();
-    $("#def-boo").show();
+    $("#def-boo").toggle();
   });
   $("#h-un").click(function() {
     $("p").hide();
-    $("#def-un").show();
+    $("#def-un").toggle();
   });
   $("#h-Nan").click(function() {
     $("p").hide();
-    $("#def-Nan").show();
+    $("#def-Nan").toggle();
   });
   $("#h-esc").click(function() {
     $("p").hide();
-    $("#def-esc").show();
+    $("#def-esc").toggle();
   });
   $("#h-alert").click(function() {
     $("p").hide();
-    $("#def-alert").show();
+    $("#def-alert").toggle();
   });
   $("#h-com").click(function() {
     $("p").hide();
-    $("#def-com").show();
+    $("#def-com").toggle();
   });
   $("#h-jq").click(function() {
     $("p").hide();
-    $("#def-jq").show();
+    $("#def-jq").toggle();
   });
   $("#h-attr").click(function() {
     $("p").hide();
-    $("#def-attr").show();
+    $("#def-attr").toggle();
   });
 });
